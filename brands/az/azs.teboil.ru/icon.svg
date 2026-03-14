@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+        "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" version="1.0" width="21"
+     height="19.261702" id="svg2">
+    <defs id="defs4">
+        <marker markerUnits="strokeWidth" refX="0" refY="5" markerWidth="4"
+                markerHeight="3" orient="auto" viewBox="0 0 10 10" id="ArrowEnd">
+            <path d="M 0,0 L 10,5 L 0,10 L 0,0 z" id="path7"/>
+        </marker>
+        <marker markerUnits="strokeWidth" refX="10" refY="5"
+                markerWidth="4" markerHeight="3" orient="auto" viewBox="0 0 10 10"
+                id="ArrowStart">
+            <path d="M 10,0 L 0,5 L 10,10 L 10,0 z" id="path10"/>
+        </marker>
+    </defs>
+    <g transform="translate(26.859007,-19.462575)" id="g12">
+        <path d="M -26.859007,19.462575 L 48.027993,19.462575 L 48.027993,38.724277 L -26.859007,38.724277 L -26.859007,19.462575 z"
+              id="path14" style="fill:#e7342c;fill-rule:evenodd;stroke:none"/>
+        <path d="M -18.363007,25.489977 L -22.148007,25.489977 L -21.316007,22.068077 L -10.089007,22.068077 L -10.910007,25.489977 L -14.597007,25.489977 L -17.085007,35.642277 L -20.824017,35.642277 L -18.363007,25.489977 z"
+              id="path16" style="fill:#ffffff;fill-rule:evenodd;stroke:none"/>
+    </g>
+</svg>
