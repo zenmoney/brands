@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Фон -->
+  <rect width="512" height="512" fill="#ffffff"/>
+  
+  <!-- Логотип АМБАР - літера "А" -->
+  <path d="M128 409.6 L204.8 51.2 L281.6 409.6 L230.4 409.6 L220.8 341.3 L188.8 341.3 L179.2 409.6 Z" fill="#b5311f"/>
+  <path d="M179.2 307.2 L230.4 307.2 L204.8 204.8 Z" fill="#305d4e"/>
+  
+  <!-- Текст "А" -->
+  <text x="204.8" y="262.4" font-family="Arial, sans-serif" font-size="216" font-weight="bold" text-anchor="middle" fill="#ffffff">А</text>
+  
+  <!-- Додатковий текст -->
+  <text x="204.8" y="373.3" font-family="Arial, sans-serif" font-size="64" font-weight="normal" text-anchor="middle" fill="#305d4e">АМБАР</text>
+</svg>
