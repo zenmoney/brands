@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1432)"><rect width="1000" height="1000" fill="#050608"></rect><g transform="matrix(8.771929824561404,0,0,8.771929824561404,-5.684341886080802e-14,-5.684341886080802e-14)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114"><svg width="114" height="114" viewBox="0 0 114 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M69.0898 44.6743H81.9974L69.0898 57.5004V44.6743Z" fill="#FFC700"></path>
+<path d="M26.5926 40.2943V55.9359L39.1852 68.4489L51.7778 55.9359V40.2943L64.3704 27.781H99L86.4075 40.2943H64.3704V62.1925L39.1852 87.219L14 62.1925V27.781L26.5926 40.2943Z" fill="white"></path>
+</svg></svg></g></g><defs><clipPath id="SvgjsClipPath1432"><rect width="1000" height="1000" x="0" y="0" rx="150" ry="150"></rect></clipPath></defs></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(8.771929824561404,0,0,8.771929824561404,-5.684341886080802e-14,-5.684341886080802e-14)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114"><svg width="114" height="114" viewBox="0 0 114 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M69.0898 44.6743H81.9974L69.0898 57.5004V44.6743Z" fill="#FFC700"></path>
+<path d="M26.5926 40.2943V55.9359L39.1852 68.4489L51.7778 55.9359V40.2943L64.3704 27.781H99L86.4075 40.2943H64.3704V62.1925L39.1852 87.219L14 62.1925V27.781L26.5926 40.2943Z" fill="white"></path>
+</svg></svg></g></g></svg></g></svg>
