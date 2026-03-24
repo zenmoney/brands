@@ -1,0 +1,19 @@
+<svg width="64" height="64" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<filter id="filter_1_47_dd" x="2.399994" y="-10.800018" width="37.050003" height="37.050003" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="2" result="effect_layerBlur_1"/>
+		</filter>
+		<clipPath id="clip1_46">
+			<rect id="icon 24x24" rx="5.025001" width="23.850000" height="23.850000" transform="translate(0.075000 0.075000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="icon 24x24" rx="5.025001" width="23.850000" height="23.850000" transform="translate(0.075000 0.075000)" fill="#247AF2" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip1_46)">
+		<g filter="url(#filter_1_47_dd)">
+			<circle id="Ellipse 1995" cx="20.924995" cy="7.724976" r="12.525001" fill="#D48098" fill-opacity="1.000000"/>
+		</g>
+		<path id="Vector" d="M6.5 19.12C8 20.07 9.74 20.56 11.51 20.54C13.29 20.51 15.01 19.97 16.49 18.99C17.96 18 19.11 16.61 19.81 14.98C20.51 13.35 20.71 11.56 20.41 9.81C20.1 8.07 19.29 6.45 18.09 5.15C16.88 3.86 15.32 2.94 13.6 2.51C11.88 2.09 10.07 2.17 8.39 2.75C6.72 3.33 5.25 4.39 4.16 5.79C2.92 7.39 2.25 9.18 2.25 12.71L2.25 25.65L6.5 25.65L6.5 19.12ZM6.5 11.39C6.5 12.61 6.95 13.78 7.77 14.68C8.59 15.58 9.71 16.15 10.92 16.27C12.13 16.39 13.35 16.06 14.33 15.33C15.3 14.61 15.98 13.54 16.22 12.35C16.45 11.16 16.24 9.92 15.61 8.88C14.99 7.83 14 7.06 12.83 6.7C11.67 6.35 10.41 6.44 9.31 6.96C8.21 7.48 7.34 8.39 6.88 9.52C6.63 10.11 6.5 10.75 6.5 11.39Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
