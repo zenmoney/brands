@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+	<title>logo</title>
+	<style>
+		.s0 { fill: #ffffff;stroke: #e12039;stroke-linecap: round;stroke-linejoin: round;stroke-width: 7 }
+	</style>
+	<g>
+		<path class="s0" d="m116.5 44.9c-8.3 0-15.1 6.8-15.1 15.1 0 8.3 6.8 15.1 15.1 15.1v8.7c0 9-4.9 13.9-13.8 13.9h-85.4c-8.9 0-13.8-4.9-13.8-13.9v-8.7c8.3 0 15.1-6.8 15.1-15.1 0-8.3-6.8-15.1-15.1-15.1v-8.7c0-9 4.9-13.9 13.8-13.9h85.4c8.9 0 13.8 4.9 13.8 13.9zm-37.7 30.1v-7.5m0-15.1v-7.5m0-15.1v-7.5m0 75.3v-7.5"/>
+	</g>
+</svg>
