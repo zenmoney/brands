@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M169.5 108.5L270 211L343 137.5L440 234L270 404.5L72.5 206L169.5 108.5ZM169.5 137.5L270 240L343 168.5L409.5 234L270 375L103.5 206L169.5 137.5Z" fill="#D9D9D9"></path>
+<path d="M270 240L169.5 137.5L103.5 206L270 375L409.5 234L343 168.5L270 240Z" fill="black"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M169.5 108.5L270 211L343 137.5L440 234L270 404.5L72.5 206L169.5 108.5ZM169.5 137.5L270 240L343 168.5L409.5 234L270 375L103.5 206L169.5 137.5Z" stroke="black" stroke-width="52"></path>
+<path d="M270 240L169.5 137.5L103.5 206L270 375L409.5 234L343 168.5L270 240Z" stroke="black" stroke-width="52"></path>
+<path d="M102.903 235.689L117.764 220.72L270.174 374.244L394.494 248.833L409.355 263.802L270.174 404L102.903 235.689Z" fill="#37D3FF"></path>
+<path d="M87.8604 220.538L73 205.386L168.687 109L284.852 226.197L270.173 241.166L168.687 138.938L87.8604 220.538Z" fill="#37D3FF"></path>
+<path d="M300.254 210.863L285.393 195.712L343.566 137.113L439.253 233.5L424.393 248.651L343.566 167.051L300.254 210.863Z" fill="#37D3FF"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
