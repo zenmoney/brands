@@ -1,0 +1,32 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="16" fill="url(#paint0_linear_16222_3573)"/>
+<g clip-path="url(#clip0_16222_3573)">
+<g filter="url(#filter0_dd_16222_3573)">
+<path d="M44 17.2435C44 16.3174 43.6534 15.3914 42.9603 14.6969C41.574 13.3079 39.2635 13.3079 37.8772 14.6969L30.2527 22.3365C28.8664 23.7255 28.8664 26.0405 30.2527 27.4296C31.639 28.8186 33.9494 28.8186 35.3357 27.4296L36.8375 25.9248V38.5417C36.8375 40.5094 38.4549 42.13 40.4187 42.13C42.3826 42.13 44 40.5094 44 38.5417V17.2435Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.2435C12 16.3175 12.3466 15.3914 13.0397 14.6969C14.426 13.3079 16.7365 13.3079 18.1227 14.6969L25.7473 22.3365C27.1336 23.7255 27.1336 26.0406 25.7473 27.4296C24.361 28.8186 22.0505 28.8186 20.6643 27.4296L19.1625 26.0406V38.6574C19.1625 40.6252 17.5451 42.2457 15.5812 42.2457C13.6173 42.2457 12 40.6252 12 38.6574V17.2435Z" fill="#FABF00"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_dd_16222_3573" x="6.75" y="10.1552" width="42.5" height="39.0906" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="1.75"/>
+<feGaussianBlur stdDeviation="2.625"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0666667 0 0 0 0 0.0823529 0 0 0 0 0.129412 0 0 0 0.06 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_16222_3573"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="0.875"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0666667 0 0 0 0 0.0823529 0 0 0 0 0.129412 0 0 0 0.02 0"/>
+<feBlend mode="normal" in2="effect1_dropShadow_16222_3573" result="effect2_dropShadow_16222_3573"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_16222_3573" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_16222_3573" x1="28.0004" y1="28.1457" x2="23.4171" y2="-11.2239" gradientUnits="userSpaceOnUse">
+<stop stop-color="#007E8B"/>
+<stop offset="1" stop-color="#009C4D"/>
+</linearGradient>
+<clipPath id="clip0_16222_3573">
+<rect width="32" height="32" fill="white" transform="translate(12 12)"/>
+</clipPath>
+</defs>
+</svg>
