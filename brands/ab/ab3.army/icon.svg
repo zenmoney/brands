@@ -1,0 +1,27 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="80"
+  height="80"
+  viewBox="0 0 80 80"
+  fill="none"
+>
+  <!-- Solid background helps the mark read “bigger” at 16×16. -->
+  <rect width="80" height="80" rx="10" fill="#000" />
+
+  <!-- Scale the AB3 mark up so it visually fills the tab icon box. -->
+  <g
+    fill="#F6921E"
+    transform="translate(40 40) scale(1.18) translate(-40 -40)"
+  >
+    <path
+      d="M24 62.7277L24.0347 62.6921V62.687L26.1218 60.5147H26.1267L56 29.435V17.2376L24 50.5049V62.7277Z"
+    />
+    <path
+      d="M44.5094 12L24.1097 33.3352V45.5427L44.5094 24.2126V12Z"
+    />
+    <path
+      d="M35.5654 68L55.9998 46.6241V34.3707L35.5654 55.7873V68Z"
+    />
+  </g>
+</svg>
+
