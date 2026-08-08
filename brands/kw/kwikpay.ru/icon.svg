@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="880"><svg xmlns="http://www.w3.org/2000/svg" width="880" height="880" viewBox="0 0 880 880" fill="none">
+  <circle cx="440" cy="440" r="374" fill="#FFFFFF"></circle>
+  <path d="M335.551 195H593L506 440.5L593 686H335.551L245 440.5L335.551 195Z" fill="#FF3131"></path>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M440 814.075C646.484 814.075 814 646.666 814 440C814 233.334 646.484 65.9251 440 65.9251C233.516 65.9251 66 233.334 66 440C66 646.666 233.516 814.075 440 814.075ZM440 880C683.005 880 880 683.005 880 440C880 196.995 683.005 0 440 0C196.995 0 0 196.995 0 440C0 683.005 196.995 880 440 880Z" fill="#07477A"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
