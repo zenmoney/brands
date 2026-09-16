@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136"><svg id="a" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136 136">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#GradientFill_4);
+      }
+
+      .st0, .st1, .st2, .st3 {
+        fill-rule: evenodd;
+      }
+
+      .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st5 {
+        display: none;
+      }
+
+      .st1 {
+        fill: url(#GradientFill_6);
+      }
+
+      .st2 {
+        fill: url(#GradientFill_5);
+      }
+    </style>
+    <linearGradient id="GradientFill_4" data-name="GradientFill 4" x1="25.02" y1="72.1" x2="25.02" y2="4.07" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d3c3b"></stop>
+      <stop offset=".44" stop-color="#2c2d2b"></stop>
+      <stop offset=".65" stop-color="#1e1e1b"></stop>
+      <stop offset="1" stop-color="#12120e"></stop>
+    </linearGradient>
+    <linearGradient id="GradientFill_5" data-name="GradientFill 5" x1="85.86" y1="-33.37" x2="85.86" y2="101.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e20d17"></stop>
+      <stop offset="1" stop-color="#d61519"></stop>
+    </linearGradient>
+    <linearGradient id="GradientFill_6" data-name="GradientFill 6" x1="85.86" y1="34.64" x2="85.86" y2="169.37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e20d17"></stop>
+      <stop offset="1" stop-color="#e30d1c"></stop>
+    </linearGradient>
+  </defs>
+  <circle class="st5" cx="68" cy="67.99" r="67.97"></circle>
+  <g>
+    <circle class="st4" cx="68" cy="68.01" r="68" transform="translate(-13.81 118.56) rotate(-76.72)"></circle>
+    <path class="st3" d="M0,68.01c0,25.87,14.45,48.36,35.72,59.85l.02-.05,14.29-59.8H0Z"></path>
+    <path class="st0" d="M35.75,8.19l-.03-.04-.06.04C14.43,19.7,0,42.17,0,68.01h50.03l-14.29-59.82Z"></path>
+    <path class="st2" d="M35.81,8.46l70.57,59.54h29.62C136,30.44,105.56,0,68,0c-11.68,0-22.67,2.96-32.28,8.15l.1.31Z"></path>
+    <path class="st1" d="M35.72,127.87c9.61,5.2,20.6,8.14,32.27,8.14,37.57,0,68-30.45,68-68h0s-29.62-.01-29.62-.01l-70.57,59.55-.09.32Z"></path>
+  </g>
+</svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg></svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
