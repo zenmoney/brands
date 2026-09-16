@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#6BBF59"/>
+  <!-- Pencil body -->
+  <rect x="26" y="14" width="12" height="30" rx="2" fill="#FFD54F" transform="rotate(-10 32 32)"/>
+  <!-- Pencil tip -->
+  <polygon points="26,44 32,54 38,44" fill="#FFD54F" transform="rotate(-10 32 32)"/>
+  <polygon points="29,48 32,54 35,48" fill="#333" transform="rotate(-10 32 32)"/>
+  <!-- Pencil top -->
+  <rect x="26" y="12" width="12" height="5" rx="1" fill="#E85C41" transform="rotate(-10 32 32)"/>
+  <!-- Pencil stripe -->
+  <rect x="26" y="22" width="12" height="2" fill="#4CAF50" transform="rotate(-10 32 32)"/>
+  <!-- Leaf -->
+  <path d="M42,18 Q50,10 52,18 Q54,26 42,22 Z" fill="#fff" opacity="0.9"/>
+  <path d="M42,18 Q48,20 42,22" fill="none" stroke="#6BBF59" stroke-width="0.8"/>
+</svg>
