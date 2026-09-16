@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+<title>NOVA</title>
+<rect width="64" height="64" fill="#262628"/>
+<g transform="translate(-55.5049 -7.0732) scale(0.985626)">
+<path d="M95.9939 39.493L108.099 24.7863L90.689 32.533L80.4562 15.293L82.7581 35.4796L68.1399 38.993V41.073L82.8904 43.913L81.3757 63.993L90.9867 46.4196L109.422 54.3063L95.9939 39.493Z" fill="url(#fav_star_outer)"/>
+<path d="M102.781 49.573L90.2261 44.1996L83.7107 56.113L84.6235 44.013L84.736 42.4863L71.5796 39.9596L84.6566 36.8196L83.0956 23.1396L89.988 34.753L102.066 29.3796L93.6987 39.5463L94.6843 40.633L102.781 49.573Z" fill="url(#fav_star_inner)"/>
+<path opacity="0.13" d="M102.781 49.5728L90.2261 44.1995L83.7107 56.1128L84.6235 44.0128C84.6235 44.0128 89.5183 44.3195 94.6843 40.6328L102.781 49.5728Z" fill="#4C3409"/>
+</g>
+<defs>
+<linearGradient id="fav_star_outer" x1="112.743" y1="39.6421" x2="73.1615" y2="39.6421" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFFFD2"/>
+<stop offset="0.4144" stop-color="#DDB258"/>
+<stop offset="1" stop-color="#CC8F4C"/>
+</linearGradient>
+<linearGradient id="fav_star_inner" x1="73.2097" y1="39.6252" x2="94.0256" y2="39.6252" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F4C76A"/>
+<stop offset="1" stop-color="#FBE89C"/>
+</linearGradient>
+</defs>
+</svg>
