@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.179" height="73.179">
+  <svg width="73.179" height="73.179" viewBox="0 0 73.179 73.179" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1069">
+        <path d="M-372.342 153.469h1892v-304h-1892Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1068">
+        <path d="M-347.98 168.766h1892v-304h-1892Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1067">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1066">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1065">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1064">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1063">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1062">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1061">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="SvgjsClipPath1060">
+        <path d="M0 304h1892V0H0Z"/>
+      </clipPath>
+    </defs>
+    <!-- Scale logo slightly down around center to add padding in favicon -->
+    <g transform="translate(36.5895 36.5895) scale(0.86) translate(-36.5895 -36.5895)">
+      <g style="display:inline">
+        <path d="M0 0h-24.362v-15.297h9.057v-9.064H0Z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 73.178 0)" clip-path="url(#a)"/>
+        <path d="M0 0h-15.305v-24.361H9.058v15.297H0Z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 40.695 20.396)" clip-path="url(#b)"/>
+        <path d="M332.675 110.873h15.293v15.293h-15.293z" style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#c)"/>
+        <path d="M357.049 135.238h15.293v15.293h-15.293z" style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#d)"/>
+        <path d="M317.458 142.342h8.12v8.121h-8.12z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#e)"/>
+        <path d="M317.458 118.072h8.12v8.119h-8.12z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#f)"/>
+        <path d="M319.487 98.354h4.061v4.061h-4.061z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#g)"/>
+        <path d="M342.712 145.051h-4.06v-4.063h4.06z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#h)"/>
+        <path d="M341.357 96.324h8.121v8.119h-8.121z" style="fill:#0994dc;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#i)"/>
+        <path d="M363.344 116.711h4.061v4.061h-4.061z" style="fill:#00adef;fill-opacity:1;fill-rule:nonzero;stroke:none" transform="matrix(1.33333 0 0 -1.33333 -423.277 200.708)" clip-path="url(#j)"/>
+      </g>
+    </g>
+  </svg>
+  <style>
+    @media (prefers-color-scheme:light){:root{filter:none}}@media (prefers-color-scheme:dark){:root{filter:none}}
+  </style>
+</svg>
