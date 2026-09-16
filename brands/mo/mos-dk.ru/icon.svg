@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#15243D"/>
+  <rect y="448" width="512" height="64" fill="#29A3D9"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" 
+        font-family="Arial, sans-serif" font-weight="700" font-size="220" fill="white">ДК</text>
+</svg>
