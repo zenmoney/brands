@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="a"
+   viewBox="0 0 16 16"
+   version="1.1"
+   sodipodi:docname="ljm-ikonele-melyna-16x16px_52179.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="12.984375"
+     inkscape:cx="10.127557"
+     inkscape:cy="9.3188929"
+     inkscape:window-width="826"
+     inkscape:window-height="803"
+     inkscape:window-x="369"
+     inkscape:window-y="77"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="a" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.b{fill:#2d4b91;fill-rule:evenodd;}</style>
+  </defs>
+  <path
+     class="b"
+     d="M6.8,9.84c.18,0,.33,.15,.33,.33v3.62c0,.22-.16,.41-.39,.37-1.6-.3-3-1.01-4.02-1.96v1.98c1.29,1.12,3.17,1.83,5.26,1.83h.05c2.09,0,3.96-.71,5.26-1.83v-1.98c-1.03,.96-2.44,1.67-4.05,1.97-.2,.03-.35-.16-.35-.38v-3.62c0-.18,.15-.33,.33-.33h3.04c.08,0,.15-.07,.15-.15v-1.44c0-.08-.07-.15-.15-.15h-3.04c-.18,0-.33-.15-.33-.33v-1.33c0-.18,.15-.33,.33-.33h.72c1.51-.03,2.72-1.26,2.72-2.78V.15C12.64,.07,12.57,0,12.49,0h-1.39c-.08,0-.15,.06-.15,.14V3.32h0c0,.57-.46,1.03-1.03,1.03-.57,0-1.03-.46-1.03-1.03V.15C8.89,.07,8.82,0,8.73,0h-1.46c-.08,0-.15,.07-.15,.15V3.33c0,.57-.46,1.03-1.03,1.03-.57,0-1.03-.46-1.03-1.03V.15C5.07,.07,5,0,4.92,0h-1.39c-.08,0-.15,.07-.15,.15V3.33c0,1.51,1.22,2.74,2.72,2.78h.7c.18,0,.33,.15,.33,.33v1.33c0,.18-.15,.33-.33,.33H3.77c-.08,0-.15,.07-.15,.15v1.44c0,.08,.07,.15,.15,.15h3.03Z"
+     id="path6" />
+</svg>
