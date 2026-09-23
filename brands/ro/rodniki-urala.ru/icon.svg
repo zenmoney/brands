@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Оценочная версия) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="120px" height="120px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 120 120"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="108.85" y1="36.96" x2="3.33" y2="55.99">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5AB5D6"/>
+   <stop offset="0.239216" style="stop-opacity:1; stop-color:#467BBE"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#6669AD"/>
+   <stop offset="0.890196" style="stop-opacity:1; stop-color:#63BADB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#527BB5"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M21.81 92.64c-3.36,5.08 -10.16,6.58 -15.37,3.35 -5.29,-3.29 -6.92,-10.25 -3.62,-15.55l6.67 -10.68c0.56,-0.89 1.63,-1.27 2.64,-0.94 9.73,3.24 14.43,14.59 9.68,23.82l0 0zm-18.99 -53.09c-3.3,-5.29 -1.67,-12.25 3.62,-15.54 5.3,-3.29 12.26,-1.68 15.55,3.62l5 8.01c0.43,0.67 1.11,1.05 1.91,1.05 0.81,0 1.5,-0.38 1.92,-1.05l15.01 -24.02c3.08,-4.66 8.4,-7.71 14.4,-7.63 5.85,0.08 10.97,3.12 13.96,7.67l14.99 23.98c0.42,0.67 1.11,1.05 1.92,1.05 0.8,0 1.48,-0.38 1.91,-1.05l5 -8.01c3.29,-5.3 10.25,-6.91 15.55,-3.62 5.29,3.29 6.92,10.25 3.62,15.54l-11.52 18.45c-0.79,1.26 -0.79,2.74 0,4l11.52 18.44c3.29,5.3 1.67,12.26 -3.62,15.55 -5.3,3.29 -12.26,1.67 -15.55,-3.62l-36.09 -57.76c-0.42,-0.67 -1.12,-1.06 -1.92,-1.06 -0.8,0 -1.5,0.39 -1.92,1.06l-11.1 17.77c-1.31,2.24 -2.06,4.84 -2.06,7.62 0,8.22 6.63,15.08 15.08,15.08 4.66,0 8.9,-2.16 11.69,-5.57 0.61,-0.74 1.57,-1.02 2.48,-0.71 9.82,3.32 14.61,14.61 9.8,23.9l-9.78 15.64c-2.99,4.55 -8.11,7.59 -13.96,7.67 -6,0.08 -11.32,-2.97 -14.4,-7.64l0 0 -43.01 -68.82z"/>
+ </g>
+</svg>
