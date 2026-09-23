@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="100.000000pt"
+   height="99.000000pt"
+   viewBox="0 0 100.000000 99.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg4"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="1.3633233"
+     inkscape:cx="-4.7677612"
+     inkscape:cy="136.79807"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     transform="translate(0.000000,99.000000) scale(0.100000,-0.100000)"
+     fill="#000000"
+     stroke="none"
+     id="g4">
+    <g
+       id="g5">
+      <path
+         d="M0 827 l0 -163 65 -64 65 -64 0 167 0 167 172 0 172 0 -59 60 -59 60 -178 0 -178 0 0 -163z"
+         id="path1" />
+      <path
+         d="M593 936 c-29 -30 -53 -57 -53 -60 0 -3 74 -6 165 -6 l165 0 0 -165 c0 -91 3 -165 8 -165 4 0 33 27 65 59 l57 60 0 165 0 166 -177 0 -178 -1 -52 -53z"
+         id="path2" />
+      <path
+         d="M870 302 l0 -172 -165 -2 -165 -3 61 -62 60 -63 169 0 170 0 0 173 0 173 -65 64 -65 64 0 -172z"
+         id="path3" />
+      <path
+         d="M62 401 l-62 -61 0 -170 0 -170 173 0 173 0 64 65 64 65 -172 0 -172 0 -2 166 -3 166 -63 -61z"
+         id="path4" />
+    </g>
+  </g>
+</svg>
