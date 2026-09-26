@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <!-- AIRLink VPN favicon: dark rounded tile + white brand waves (reads on light & dark) -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#26262f"/>
+      <stop offset="1" stop-color="#121217"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="40" fill="url(#bg)"/>
+  <g transform="translate(30,30) scale(5)" stroke="#ffffff" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 2 7 C 5 11, 8 11, 12 7 C 16 3, 19 3, 22 7"/>
+    <path d="M 2 12 C 5 16, 8 16, 12 12 C 16 8, 19 8, 22 12"/>
+    <path d="M 2 17 C 5 21, 8 21, 12 17 C 16 13, 19 13, 22 17"/>
+  </g>
+</svg>
