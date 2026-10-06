@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <defs>
+    <linearGradient id="btn" gradientUnits="objectBoundingBox" x1="0.2257" y1="0.0820" x2="0.7743" y2="0.9180">
+      <stop offset="0.1462" stop-color="#6D4FD5"/>
+      <stop offset="0.8694" stop-color="#543DC1"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="180" height="180" fill="url(#btn)"/>
+  <g transform="translate(24.5 32.5) scale(1.0)" fill="#ffffff">
+    <path d="M45.4497 10.4542L39.4012 0H99.7769L133.048 57.4883L111.909 94.0878H99.8197L121.036 57.4883L93.7428 10.4542H45.4497Z" fill="#ffffff"/>
+    <path d="M105.827 104.546L99.8196 115H33.3268L0 57.4924L30.3098 5.19743L36.3438 15.6173L12.0122 57.4924L39.3609 104.546H105.827Z" fill="#ffffff"/>
+    <path d="M81.6337 20.9219H45.3929L27.2349 52.2653H39.3119L51.4269 31.3418H75.6468L81.6337 20.9219Z" fill="#ffffff"/>
+    <path d="M81.6337 94.053H45.3929L27.2349 62.7095H39.3119L51.4269 83.6331H75.6468L81.6337 94.053Z" fill="#ffffff"/>
+    <path d="M90.6985 88.9046L108.819 57.5192L90.7537 26.1222L84.7152 36.5812L96.7781 57.5349L84.6681 78.5099L90.6985 88.9046Z" fill="#ffffff"/>
+  </g>
+</svg>
