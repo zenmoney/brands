@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" id="Layer_1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="64.203" height="57.044"
+	 viewBox="0 0 64.203 57.044" overflow="visible" enable-background="new 0 0 64.203 57.044" xml:space="preserve">
+<rect x="6.599" y="0.176" stroke="#FFFFFF" stroke-width="0.3517" width="56.694" height="56.692"/>
+<path opacity="0.05" fill="none" stroke="#FFFFFF" stroke-width="2.8069" d="M25.367,28.522c0,6.08,2.966,10.824,9.886,10.824
+	c5.933,0,9.271-4.245,9.271-10.824c0-5.663-2.72-10.824-9.393-10.824C27.839,17.698,25.367,23.111,25.367,28.522z"/>
+<polyline opacity="0" fill="none" stroke="#FFFFFF" stroke-width="1.4424" points="37.728,27.07 37.728,29.974 32.164,29.974 "/>
+<polyline opacity="0" fill="none" stroke="#FFFFFF" stroke-width="1.4424" points="32.164,27.112 37.728,27.112 37.728,29.932 "/>
+<polyline opacity="0" fill="none" stroke="#FFFFFF" stroke-width="1.4424" points="32.342,15.85 32.342,13.03 37.549,13.03 "/>
+<polyline opacity="0" fill="none" stroke="#FFFFFF" stroke-width="1.4424" points="37.549,45.108 32.342,45.108 32.342,42.204 "/>
+<line fill="none" stroke="#FFFFFF" stroke-width="1.2253" x1="34.946" y1="27.09" x2="34.946" y2="29.954"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="1.2253" x1="34.946" y1="27.09" x2="34.946" y2="29.954"/>
+<g>
+	<path fill="#FFFFFF" d="M31.143,9.793H13.624V4.522h42.644v5.271H38.663v42.729h-7.521V9.793z"/>
+</g>
+<text transform="matrix(1.2 0 0 1 0 36.2666)" display="none" fill="#FFFFFF" font-family="'MyriadPro-Light'" font-size="32">ф</text>
+<text transform="matrix(1.2 0 0 1 47 36.2666)" display="none" fill="#FFFFFF" font-family="'MyriadPro-Light'" font-size="32">к</text>
+<path fill="none" stroke="#FF0028" stroke-width="5.2836" d="M54.058,31.376c0,10.555-8.556,19.114-19.112,19.114
+	c-10.555,0-19.112-8.56-19.112-19.114c0-10.551,8.557-19.108,19.112-19.108C45.501,12.268,54.058,20.825,54.058,31.376z"/>
+</svg>
