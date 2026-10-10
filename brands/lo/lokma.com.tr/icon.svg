@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="147px" viewBox="0 0 147 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Frame 2</title>
+    <defs>
+        <path d="M0,0 L147,0 L147,147 L0,147 L0,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Frame-2" stroke="none" fill="none" xlink:href="#path-1" fill-rule="nonzero">
+        <polygon id="Fill-3" fill="#000000" points="51.7250836 132.203872 51.7250836 0 38 0 38 132.203872 38 147 51.7250836 147 109 147 109 132.203872"></polygon>
+    </g>
+</svg>
