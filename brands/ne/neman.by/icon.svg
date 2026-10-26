@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="neman_favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35055065"
+     inkscape:cx="1002.7082"
+     inkscape:cy="907.14424"
+     inkscape:window-width="1450"
+     inkscape:window-height="1030"
+     inkscape:window-x="224"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <svg
+       class="header-logo header-logo_pc"
+       viewBox="0 0 156 48"
+       version="1.1"
+       id="svg2"
+       width="100%"
+       height="100%">
+      <path
+         fill="#0b4396"
+         d="M 78.138582,46.07295 A 117.75674,117.75674 0 0 0 143.89124,-43.21156 H 12.580937 A 116.84667,116.84667 0 0 0 78.10608,46.07295 Z M 33.545081,91.023978 h 37.44294 A 193.78021,193.78021 0 0 1 0.22996744,-53.969904 H 156.0147 A 195.17782,195.17782 0 0 1 85.289144,90.991476 H 122.73208 V 102.04235 H 33.545081 V 90.991476 Z"
+         id="path1"
+         style="stroke-width:3.25026" />
+    </svg>
+  </g>
+</svg>
