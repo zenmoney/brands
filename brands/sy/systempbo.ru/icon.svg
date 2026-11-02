@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <rect width="1000" height="1000" rx="150" fill="#2D5F3F"/>
+  <text 
+    x="500" 
+    y="650" 
+    text-anchor="middle" 
+    font-family="Arial Black, Arial Bold, Helvetica, sans-serif" 
+    font-size="450" 
+    font-weight="900" 
+    fill="#FFFFFF"
+    letter-spacing="-20">СП</text>
+</svg>
