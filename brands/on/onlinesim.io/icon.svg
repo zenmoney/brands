@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <!-- Soft rounded halo (blur, not morphology — no hard corners) -->
+    <filter id="mark-halo" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="0.85" result="blur"/>
+      <feFlood flood-color="#002766" flood-opacity="0.5" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge>
+        <feMergeNode in="glow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#1890ff"/>
+  <g filter="url(#mark-halo)">
+    <g transform="translate(16 16) scale(0.67935) translate(-19.101 -15.034)">
+      <path
+        fill="#fff"
+        d="M22.333 24.77a11.15 11.15 0 0 1-5.71-9.737 11.15 11.15 0 0 1 5.71-9.736H10.427C5.05 5.297.69 9.656.69 15.033s4.36 9.737 9.737 9.737z"
+      />
+      <path
+        fill="none"
+        stroke="#fff"
+        stroke-width="3.895"
+        stroke-linecap="round"
+        d="M35.565 15.033a7.79 7.79 0 1 1-15.578 0 7.79 7.79 0 0 1 15.578 0Z"
+      />
+    </g>
+  </g>
+</svg>
