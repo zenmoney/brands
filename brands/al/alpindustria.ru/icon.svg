@@ -1,0 +1,10 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+	<style>
+		.favicon { fill:#324481; }
+		@media (prefers-color-scheme: dark) {
+			.favicon { fill: #fff; }
+		}
+	</style>
+	<polygon class="favicon" points="45.45 27.95 0 92.06 10.87 92.06 45.45 42.45 45.45 92.06 55.53 92.06 55.53 27.95 45.45 27.95"/>
+	<polygon class="favicon" points="74.55 27.95 120 92.06 109.13 92.06 74.55 42.45 74.55 92.06 64.47 92.06 64.47 27.95 74.55 27.95"/>
+</svg>
