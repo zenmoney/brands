@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="120px" height="120px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 120 120"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil1 {fill:#0082E0;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="120" height="120"/>
+  <path class="fil1" d="M52 80l-36 0 0 0c-3,0 -6,-3 -6,-6 0,0 0,0 0,0l0 0 0 -27 42 0 0 34zm7 -41l-56 0 0 7 0 0 0 27c0,0 0,0 0,1 0,0 0,0 0,1 0,7 6,12 13,12l42 0 0 -47 0 0z"/>
+  <polygon class="fil1" points="107,49 99,49 99,49 90,58 81,49 81,49 81,49 81,49 73,49 73,76 81,76 81,61 90,70 99,61 99,76 107,76 107,49 "/>
+  <polygon class="fil1" points="40,49 40,64 25,49 13,49 40,76 40,76 48,76 48,49 "/>
+  <path class="fil1" d="M69 46l42 0 0 34 -42 0 0 -34zm42 -7l-49 0 0 47 56 0 0 -47 -7 0z"/>
+ </g>
+</svg>
