@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <!-- Warm glow gradient for the lantern light -->
+    <radialGradient id="glow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#F5D98A" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#C5A059" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Gold gradient for the lantern body -->
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8C872"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#A07830"/>
+    </linearGradient>
+    <!-- Glass gradient -->
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5D98A" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#C5A059" stop-opacity="0.15"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark circular background -->
+  <circle cx="32" cy="32" r="31" fill="#1a0f0f"/>
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#C5A059" stroke-width="0.8" stroke-opacity="0.4"/>
+
+  <!-- Soft glow behind lantern -->
+  <ellipse cx="32" cy="34" rx="16" ry="18" fill="url(#glow)"/>
+
+  <!-- Lantern hook / hanging ring -->
+  <path d="M29 12 Q32 8 35 12" fill="none" stroke="url(#gold)" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- Lantern top cap -->
+  <path d="M25 16 L39 16 L37 13 L27 13 Z" fill="url(#gold)"/>
+  <!-- Top cap decorative line -->
+  <rect x="26" y="14.5" width="12" height="0.6" rx="0.3" fill="#E8C872" opacity="0.6"/>
+
+  <!-- Lantern body — curved octagonal Persian shape -->
+  <path d="
+    M26 16
+    L24 20
+    L23 28
+    L24 36
+    L26 40
+    L38 40
+    L40 36
+    L41 28
+    L40 20
+    L38 16
+    Z
+  " fill="url(#glass)" stroke="url(#gold)" stroke-width="1.2"/>
+
+  <!-- Lantern vertical bars (Persian style) -->
+  <line x1="29" y1="16" x2="28" y2="40" stroke="#C5A059" stroke-width="0.7" opacity="0.6"/>
+  <line x1="32" y1="16" x2="32" y2="40" stroke="#C5A059" stroke-width="0.7" opacity="0.6"/>
+  <line x1="35" y1="16" x2="36" y2="40" stroke="#C5A059" stroke-width="0.7" opacity="0.6"/>
+
+  <!-- Horizontal decorative bands -->
+  <line x1="23.5" y1="24" x2="40.5" y2="24" stroke="#C5A059" stroke-width="0.6" opacity="0.5"/>
+  <line x1="23.5" y1="32" x2="40.5" y2="32" stroke="#C5A059" stroke-width="0.6" opacity="0.5"/>
+
+  <!-- Inner flame -->
+  <path d="M32 35 Q29 29 31 25 Q32 22 33 25 Q35 29 32 35 Z" fill="#E8C872" opacity="0.7"/>
+  <path d="M32 33 Q30.5 29 31.5 26 Q32 24.5 32.5 26 Q33.5 29 32 33 Z" fill="#F5D98A" opacity="0.9"/>
+
+  <!-- Lantern bottom cap -->
+  <path d="M26 40 L38 40 L36 44 L28 44 Z" fill="url(#gold)"/>
+
+  <!-- Bottom finial (small decorative point) -->
+  <path d="M30.5 44 L32 48 L33.5 44" fill="url(#gold)"/>
+
+  <!-- Subtle turquoise accent at base -->
+  <line x1="29" y1="42" x2="35" y2="42" stroke="#5CE0D6" stroke-width="0.6" opacity="0.5"/>
+</svg>
