@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- NeuralDeep · ND monogram. Self-contained dark tile → читается и на чёрном, и на белом. -->
+  <rect width="512" height="512" rx="116" fill="#0A0B0E"/>
+  <rect x="3" y="3" width="506" height="506" rx="113" fill="none" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="3"/>
+  <g fill="none" stroke="#00FF88" stroke-width="42" stroke-linecap="round" stroke-linejoin="round">
+    <!-- N -->
+    <polyline points="110,358 110,154 238,358 238,154"/>
+    <!-- D : stem + right bowl -->
+    <line x1="298" y1="154" x2="298" y2="358"/>
+    <path d="M298 154 C368 154 404 200 404 256 C404 312 368 358 298 358"/>
+  </g>
+</svg>
