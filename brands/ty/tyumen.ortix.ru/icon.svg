@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 53.46 52.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Безымянный_градиент_3);
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_6);
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_6" data-name="Безымянный градиент 6" x1="-21.62" y1="23.58" x2="74.3" y2="72.79" gradientUnits="userSpaceOnUse">
+      <stop offset=".21" stop-color="#71b8ff"/>
+      <stop offset=".34" stop-color="#0083e5"/>
+      <stop offset=".49" stop-color="#065ab3"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_3" data-name="Безымянный градиент 3" x1="15.25" y1="36.36" x2="57.61" y2="-.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#51c3f1"/>
+      <stop offset=".19" stop-color="#51c3f1"/>
+      <stop offset=".33" stop-color="#47bbef"/>
+      <stop offset=".55" stop-color="#2ea7eb"/>
+      <stop offset=".83" stop-color="#0586e5"/>
+      <stop offset=".86" stop-color="#0083e5"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-2" d="M0,29.24c1.1,11.78,9.06,22.6,24.68,23.44-.93-12.94-11.61-23.21-24.68-23.44Z"/>
+  <path class="cls-1" d="M26.66,0C9.82,0,1.23,11.12.02,23.32c5.15.08,10,1.42,14.26,3.72,0-.22-.01-.44-.01-.67,0-9.62,5.92-14.4,12.4-14.4s12.4,4.78,12.4,14.4-5.44,13.99-11.6,14.37c1.77,3.59,2.87,7.58,3.14,11.78,15.54-1.74,22.85-13.83,22.85-26.15C53.46,13.04,44.91,0,26.66,0Z"/>
+</svg>
